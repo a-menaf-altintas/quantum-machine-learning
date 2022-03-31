@@ -1,3 +1,2 @@
 # quantum-machine-learning
-## quantum neural network
-## quantum kernel method
+Quantum neural network and quantum kernel method with Scikit-learn and QISKIT.
